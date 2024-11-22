@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -7,17 +7,10 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-// https://vite.dev/config/
+// https://vitejs.dev/config/
 export default defineConfig({
+  base: "/",
   plugins: [react()],
-  base: '/',
-  resolve: {
-    extensions: ['.js', '.jsx', '.ts', '.tsx']
-  },
-  esbuild: {
-    loader: 'jsx',
-    include: /.*\.[tj]sx?$/
-  },
   build: {
     rollupOptions: {
       input: {
@@ -26,4 +19,15 @@ export default defineConfig({
       },
     },
   },
-})
+  assetsInclude: [
+    "**/*.png",
+    "**/*.jpg",
+    "**/*.jpeg",
+    "**/*.PNG",
+    "**/*.JPG",
+    "**/*.JPEG",
+  ],
+  server: {
+    port: 3000,
+  },
+});
