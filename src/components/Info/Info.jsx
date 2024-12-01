@@ -21,7 +21,7 @@ const Info = () => {
 
         <h3>Prize Distribution</h3>
         <ul>
-            <li><b>1st Place:</b> $500</li>
+            <li><b>1st Place:</b> $200</li>
             <li><b>2nd Place:</b> $300</li>
             <li><b>3rd Place:</b> $400</li>
         </ul>
