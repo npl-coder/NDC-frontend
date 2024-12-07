@@ -38,7 +38,9 @@ const Info = () => {
 
         <b><i>Exact details on the competition format will be discussed later.</i></b>
         <br></br>
+        <br></br>
         <b><i>Registration Opens: Dec 7, 2024</i></b>
+        <br></br>
         <b><i>Registration Closes: Dec 31, 2024</i></b>
 
 
