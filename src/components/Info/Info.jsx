@@ -31,13 +31,13 @@ const Info = () => {
 
         <h3>Evaluation Criteria</h3>
         <ul>
-            <li><b>Technical Excellence:</b> The quality and accuracy of solutions.</li>
+            <li><b>Technical Engagement:</b> The consistent and meaningful participation on the provided platform.</li>
             <li><b>Innovation and Creativity:</b> How well participants think outside the box.</li>
             <li><b>Collaboration and Support:</b> Teams will be recognized not only for their competitive performance but for how they support others, align with the ethos of mentorship, and contribute to the community’s growth.</li>
         </ul>
 
         <h3>Call to Action</h3>
-        <p>Be a part of a growing community that strives for excellence, fosters collaboration, and supports each other&appos;s growth. Sign up now and take the first step toward achieving your full potential!</p>
+        <p>Be a part of a growing community that strives for excellence, fosters collaboration, and supports each other's growth. Sign up now and take the first step toward achieving your full potential!</p>
 
         {/* SignUp button */}
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfA_IjFITxmn4x9udiR1XtZhbNjmxQQ6Dj2tASzptcMvgtPsQ/viewform" target="_blank" class="btn">Sign Up for the Hackathon</a>
