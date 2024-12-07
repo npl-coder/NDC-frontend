@@ -31,7 +31,7 @@ const Info = () => {
 
         <h3>Evaluation Criteria</h3>
         <ul>
-            <li><b>Technical Engagement:</b> The consistent and meaningful participation on the provided platform.</li>
+            <li><b>Technical Engagement:</b> Consistent and meaningful participation on the provided platform.</li>
             <li><b>Innovation and Creativity:</b> How well participants think outside the box.</li>
             <li><b>Collaboration and Support:</b> Teams will be recognized not only for their competitive performance but for how they support others, align with the ethos of mentorship, and contribute to the community’s growth.</li>
         </ul>
