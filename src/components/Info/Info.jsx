@@ -36,7 +36,7 @@ const Info = () => {
             <li><b>Collaboration and Support:</b> Teams will be recognized not only for their competitive performance but for how they support others, align with the ethos of mentorship, and contribute to the community’s growth.</li>
         </ul>
 
-        <b>IThe details on the competition format will be disseminated later.</b>
+        <b><i></>Exact details on the competition format will be disseminated later.</b>
 
         <h3>Call to Action</h3>
         <p>Be a part of a growing community that strives for excellence, fosters collaboration, and supports each other's growth. Sign up now and take the first step toward achieving your full potential!</p>
