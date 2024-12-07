@@ -13,7 +13,7 @@ const Info = () => {
             <li><b>Collaborative Community:</b> Join a network of like-minded individuals who believe in helping each other succeed.</li>
             <li><b>Professional Growth:</b> Build lasting professional relationships and tap into resources that can help you with jobs and graduate school opportunities.</li>
             <li><b>Inclusivity and Support:</b> We value collaboration over competition, encouraging participants to uplift one another for collective success.</li>
-            <li><b>Exciting Prizes:</b> Compete for a share of $1,000 in prize money and recognition as a leader in AI/ML.</li>
+            <li><b>Exciting Prizes:</b> Compete for a share of Rs.25,000 in prize money and recognition as a leader in AI/ML.</li>
         </ul>
 
         <h3>Rules and Guidelines</h3>
