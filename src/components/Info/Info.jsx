@@ -36,9 +36,9 @@ const Info = () => {
             <li><b>Collaboration and Support:</b> Teams will be recognized not only for their competitive performance but for how they support others, align with the ethos of mentorship, and contribute to the community’s growth.</li>
         </ul>
 
-        <b><i>Exact details on the competition format will be discussed later.</i></b>
+        <b><i>Exact details on the competition format will be discussed later.</i></b>&nbsp;&nbsp;
         <b><i>Registration Opens: Dec 7, 2024</i></b>
-        <b><i>Registration Closes: Dec 31, 2024 </i></b>
+        <b><i>Registration Closes: Dec 31, 2024</i></b>
 
 
 
