@@ -27,7 +27,7 @@ const Info = () => {
         </ul>
 
         <h3>Eligibility and Team Formation</h3>
-        <p>All university students in Nepal are eligible. Teams can consist of up to 4 members, and cross-discipline teams are encouraged to foster diversity in skills and backgrounds. Participants may register individually or in teams. For individuals, team formation sessions will be provided to ensure everyone finds a team.</p>
+        <p>All university students in Nepal are eligible. Teams can consist of up to 4 members, and cross-discipline teams are encouraged to foster diversity in skills and backgrounds. Participants may register individually or in teams. Team formation sessions will be provided to ensure everyone finds a team.</p>
 
         <h3>Evaluation Criteria</h3>
         <ul>
