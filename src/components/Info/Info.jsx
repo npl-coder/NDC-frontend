@@ -21,9 +21,9 @@ const Info = () => {
 
         <h3>Prize Distribution</h3>
         <ul>
-<<<<<<< HEAD
+
             <li><b>1st Place:</b> Rs. 25,000</li>
->>>>>>> 299ea139d568a85f19cee3adbd62f47a839528be
+
         </ul>
 
         <h3>Eligibility and Team Formation</h3>
